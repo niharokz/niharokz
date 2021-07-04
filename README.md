@@ -17,7 +17,7 @@ drwxr-xr-x 1 nihar git 0 Dec 25 2017 now
 lrwxr-xr-x 1 nihar git 0 May 01 2018 gitlab -> <a href="https://gitlab.com/niharokz">gitlab.com/niharokz</a>
 drw------- 1 root root 1 Dec 25 2018 .crypto
 lrwxr-xr-x 1 nihar git 0 May 21 2020 linkedin -> <a href="https://linkedin.com/in/niharsamantaray">linkedin.com/in/niharsamantaray</a>
-lrwxr-xr-x 1 nihar git 0 Apr 13 2020 mail -> <a href="mailto:me@nihars.com">me@nihars.com</a>
+lrwxr-xr-x 1 nihar git 0 Apr 13 2020 mail -> <a href="mailto:me@nihars.com">hi@nihars.com</a>
 -rwxr-xr-x 1 nihar git 1 Jan 26 2021 .info
 lrwxr-xr-x 1 nihar git 0 Mar 10 2021 pidgeotto -> <a href="https://pypi.org/project/pidgeotto">pypi.org/project/pidgeotto</a>
 -rwxr-xr-x 1 nihar git 1 Apr 26 2021 gorillaz_doncamatic.opus
