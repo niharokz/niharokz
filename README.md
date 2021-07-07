@@ -21,6 +21,7 @@ lrwxr-xr-x 1 nihar git 0 Apr 13 2020 mail -> <a href="mailto:me@nihars.com">hi@n
 -rwxr-xr-x 1 nihar git 1 Jan 26 2021 .info
 lrwxr-xr-x 1 nihar git 0 Mar 10 2021 pidgeotto -> <a href="https://pypi.org/project/pidgeotto">pypi.org/project/pidgeotto</a>
 -rwxr-xr-x 1 nihar git 1 Apr 26 2021 gorillaz_doncamatic.opus
+lrwxr-xr-x 1 nihar git 0 Jul 07 2021 codeberg -> <a href="https://codeberg.org/niharokz">codeberg.org/niharokz</a>
 
 nihar@pibox:~$ pfetch
        /\         nihar@pibox
