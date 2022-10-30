@@ -7,10 +7,11 @@ nihar@pibox:~$ cat welcome.txt
        ██╔██╗ ██║██║███████║███████║██████╔╝
        ██║╚██╗██║██║██╔══██║██╔══██║██╔══██╗
        ██║ ╚████║██║██║  ██║██║  ██║██║  ██║
-<img src='https://github.githubassets.com/images/mona-whisper.gif' height=24px > Namaste, I am hobbyist systems programmer from India. <img src='https://github.githubassets.com/images/mona-whisper.gif' height=24px > 
+
+Namaste, I am hobbyist systems programmer from India. 
 
 nihar@pibox:~$ ls -al
-lrwxr-xr-x 1 nihar git 0 Feb 03 2016 website -> <a href="https://nihar.page">nihar.page</a>
+lrwxr-xr-x 1 nihar git 0 Feb 03 2016 website -> <a href="https://nih.ar">nihar.page</a>
 -rwxr-xr-x 1 nihar git 1 Feb 26 2017 welcome.txt
 drwxr-xr-x 1 nihar git 0 Dec 25 2017 now
 -rwxr-xr-x 1 nihar git 0 Dec 25 2017 README.md
