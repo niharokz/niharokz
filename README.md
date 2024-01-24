@@ -11,7 +11,7 @@ nihar@pibox:~$ cat welcome.txt
 Namaste, I am hobbyist systems programmer from India. 
 
 nihar@pibox:~$ ls -al
-lrwxr-xr-x 1 nihar git 0 Feb 03 2016 website -> <a href="https://nih.ar">nihar.page</a>
+lrwxr-xr-x 1 nihar git 0 Feb 03 2016 website -> <a href="https://nih.ar">nih.ar</a>
 -rwxr-xr-x 1 nihar git 1 Feb 26 2017 welcome.txt
 drwxr-xr-x 1 nihar git 0 Dec 25 2017 now
 -rwxr-xr-x 1 nihar git 0 Dec 25 2017 README.md
