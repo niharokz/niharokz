@@ -23,15 +23,16 @@ lrwxr-xr-x 1 nihar git 0 Apr 13 2020 mail -> <a href="mailto:me@nihars.com">hi@n
 lrwxr-xr-x 1 nihar git 0 Mar 10 2021 pidgeotto -> <a href="https://pypi.org/project/pidgeotto">pypi.org/project/pidgeotto</a>
 -rwxr-xr-x 1 nihar git 1 Apr 26 2021 gorillaz_doncamatic.opus
 lrwxr-xr-x 1 nihar git 0 Jul 07 2021 codeberg -> <a href="https://codeberg.org/niharokz">codeberg.org/niharokz</a>
+lrwxr-xr-x 1 nihar git 0 Oct 02 2025 homelab -> <a href="https://home.nihars.com">homelab</a>
 
 nihar@pibox:~$ pfetch
-       /\         nihar@pibox
-      /  \        os     Arch Linux
-     /\   \       host   Predator G3-572 
-    /      \      kernel 5.10.33-1-lts
-   /   ,,   \     uptime 236h 54m
-  /   |  |  -\    pkgs   636
- /_-''    ''-_\   memory 186M / 7838M
+       /\         nihar@nivortex
+      /  \        os     Debian Linux
+     /\   \       host   82FE IdeaPad 5 14ITL05
+    /      \      kernel 6.1.0-39-amd64
+   /   ,,   \     uptime 10Y
+  /   |  |  -\    pkgs   1142
+ /_-''    ''-_\   memory 586M / 157768M
 
 nihar@pibox:~$ tail -f .info
 Code hosted here is for personal projects only. 
